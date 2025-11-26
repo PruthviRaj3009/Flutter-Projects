@@ -3,7 +3,7 @@
 Farma Friend is a smart, user-friendly web/mobile application designed to assist farmers in managing their agricultural activities more efficiently. It acts like a digital friend to farmers by providing them with crucial tools and information such as crop suggestions, weather updates, market prices, and fertilizer recommendations, all in regional languages.
 
 📽️ Demo: my  request is to cheak video then read next section
-Click here to watch the project demo (https://drive.google.com/file/d/1Q0WTRHS2OZJnZRiIh1ijLqzdsh0AOoc5/view?usp=drive_link)
+Click here to watch the project demo (https://drive.google.com/file/d/1wuNnPU8uay__IMPj4hxBzAkWm_dV5UwB/view?usp=sharing)
 
 🎯 Key Features:
 🌱 Crop Recommendation System based on soil type, season, and location.
